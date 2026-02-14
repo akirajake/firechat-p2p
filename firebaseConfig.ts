@@ -7,13 +7,24 @@ import { FirebaseConfig } from './types';
 // ============================================================================
 
 export const firebaseConfig: FirebaseConfig = {
-  apiKey: "YOUR_API_KEY_HERE",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyDB9juJs4Va01se4M0k3EWmIEHZMHmA6xs",
+  authDomain: "firechat-db6ac.firebaseapp.com",
+  projectId: "firechat-db6ac",
+  storageBucket: "firechat-db6ac.firebasestorage.app",
+  messagingSenderId: "417423419096",
+  appId: "1:417423419096:web:02efa2a04e958378f799ad"
 };
+/*
+{
+  apiKey: "AIzaSyDB9juJs4Va01se4M0k3EWmIEHZMHmA6xs",
+  authDomain: "firechat-db6ac.firebaseapp.com",
+  projectId: "firechat-db6ac",
+  storageBucket: "firechat-db6ac.firebasestorage.app",
+  messagingSenderId: "417423419096",
+  appId: "1:417423419096:web:02efa2a04e958378f799ad"
+}
+*/
+
 
 /**
  * HELPER: Checks if the user has actually configured the app.
