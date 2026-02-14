@@ -1,0 +1,5 @@
+{
+  "name": "P2P React Chat",
+  "description": "A Discord-styled real-time chat application using WebRTC DataChannels for messages and Firebase for authentication and signaling.",
+  "requestFramePermissions": []
+}
